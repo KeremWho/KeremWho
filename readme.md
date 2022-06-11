@@ -3,7 +3,7 @@
 
 I am a full-stack developer with a passion for building things that people love. I have a background in software development and have worked with a wide range of technologies, including PHP, JavaScript, and C#. I have a strong background in the development of web applications and I am currently working on a project that I am very passionate about.
 
-<a href="https://discordapp.com/users/179997163294556161"><img align="center" src="https://lanyard.cnrad.dev/api/179997163294556161"></a>
+<div align="center"><a href="https://discordapp.com/users/179997163294556161"><img src="https://lanyard.cnrad.dev/api/179997163294556161"></a></div>
 
 <h2>Active Projects 💼</h2>
 <ul>
