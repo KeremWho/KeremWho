@@ -20,7 +20,7 @@ You can find me on the following social media platforms or send me an email:
 </ul>
 
 <h2>Skills and Tools 💪🏻</h2>
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
